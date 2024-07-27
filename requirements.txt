@@ -2,7 +2,7 @@ streamlit
 pandas
 numpy
 matplotlib
-cv2
+
 pillow
 torch
 tensorflow
