@@ -1,8 +1,8 @@
+os
 streamlit
 pandas
 numpy
 matplotlib
-
 pillow
 torch
 tensorflow
